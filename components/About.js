@@ -1,0 +1,1 @@
+export default function About() { return <section><h2>About Us</h2><p>We connect capital with opportunity across Canada’s real estate landscape.</p></section> }

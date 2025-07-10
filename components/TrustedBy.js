@@ -1,0 +1,1 @@
+export default function TrustedBy() { return <section><h2>Trusted By</h2><p>Sample partner logos here.</p></section> }

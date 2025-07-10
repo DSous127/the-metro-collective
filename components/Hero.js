@@ -1,0 +1,1 @@
+export default function Hero() { return <section><h1>Strategic Capital for Modern Real Estate</h1><video autoPlay muted loop><source src="/hero-video.mp4" type="video/mp4" /></video></section> }

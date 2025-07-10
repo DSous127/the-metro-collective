@@ -1,0 +1,1 @@
+export default function WhyWorkWithUs() { return <section><h2>Why Work With Us</h2><p>Transparent. Strategic. Trusted.</p></section> }

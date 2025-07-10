@@ -1,1 +1,8 @@
-export default function About() { return <section><h2>About Us</h2><p>We connect capital with opportunity across Canada’s real estate landscape.</p></section> }
+
+export default function About() {
+  return (
+    <section style={{ padding: '4rem', color: 'white', backgroundColor: '#111' }}>
+      <h2 style={{ fontSize: '2rem' }}>We provide strategic capital for modern real estate.</h2>
+    </section>
+  )
+}

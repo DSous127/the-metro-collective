@@ -1,1 +1,8 @@
-export default function Hero() { return <section><h1>Strategic Capital for Modern Real Estate</h1><video autoPlay muted loop><source src="/hero-video.mp4" type="video/mp4" /></video></section> }
+
+export default function Hero() {
+  return (
+    <section style={{ padding: '4rem', color: 'white', backgroundColor: '#111' }}>
+      <h2 style={{ fontSize: '2rem' }}>Welcome to The Metro Collective</h2>
+    </section>
+  )
+}

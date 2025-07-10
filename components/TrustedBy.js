@@ -1,1 +1,8 @@
-export default function TrustedBy() { return <section><h2>Trusted By</h2><p>Sample partner logos here.</p></section> }
+
+export default function TrustedBy() {
+  return (
+    <section style={{ padding: '4rem', color: 'white', backgroundColor: '#111' }}>
+      <h2 style={{ fontSize: '2rem' }}>Trusted by leading investors and real estate professionals.</h2>
+    </section>
+  )
+}
